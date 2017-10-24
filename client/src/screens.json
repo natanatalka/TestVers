@@ -1,5 +1,12 @@
 {
   "id": "__BASE__",
   "name": "TestVers",
-  "screens": []
+  "screens": [
+    {
+      "id": "Blank",
+      "name": "Blank",
+      "sourceScreenId": "Blank",
+      "sourceAppId": "default"
+    }
+  ]
 }
