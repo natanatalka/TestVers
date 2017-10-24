@@ -1,9 +1,4 @@
 {
-  "Blank": {
-    "type": "object",
-    "comment": "Blank",
-    "properties": {}
-  },
   "Login": {
     "type": "object",
     "comment": "Login",

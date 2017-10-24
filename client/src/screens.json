@@ -3,12 +3,6 @@
   "name": "TestVers",
   "screens": [
     {
-      "id": "Blank",
-      "name": "Blank",
-      "sourceScreenId": "Blank",
-      "sourceAppId": "default"
-    },
-    {
       "id": "Login",
       "name": "Login",
       "sourceScreenId": "Login",
