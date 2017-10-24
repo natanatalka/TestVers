@@ -4,12 +4,14 @@ import { MenuComponent } from './menu/menu.component';
 import { Blank_PhonePortrait } from '../pages/Blank/PhonePortrait/Blank';
 import { Login_PhonePortrait } from '../pages/Login/PhonePortrait/Login';
 import { Blank1_PhonePortrait } from '../pages/Blank1/PhonePortrait/Blank1';
+import { Blank2_PhonePortrait } from '../pages/Blank2/PhonePortrait/Blank2';
 export class Screens {
   static declarations: Page[] = [
     MenuComponent,
     Blank_PhonePortrait,
     Login_PhonePortrait,
-    Blank1_PhonePortrait
+    Blank1_PhonePortrait,
+    Blank2_PhonePortrait
   ];
   static mapping = {
     'Blank': {
@@ -20,6 +22,9 @@ export class Screens {
     },
     'Blank1': {
       PhonePortrait: Blank1_PhonePortrait
+    },
+    'Blank2': {
+      PhonePortrait: Blank2_PhonePortrait
     }
   }
 }
