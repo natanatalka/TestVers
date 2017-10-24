@@ -53,5 +53,10 @@
         }
       }
     }
+  },
+  "Blank2": {
+    "type": "object",
+    "comment": "Blank",
+    "properties": {}
   }
 }
