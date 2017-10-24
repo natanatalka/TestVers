@@ -92,7 +92,7 @@
         "label": "password"
       },
       "submit": {
-        "type": "action",
+        "type": "string",
         "parameters": {
           "username": {
             "type": "string"
