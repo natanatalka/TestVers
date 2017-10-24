@@ -78,30 +78,5 @@
         }
       }
     }
-  },
-  "Blank3": {
-    "type": "object",
-    "comment": "Login",
-    "properties": {
-      "username": {
-        "type": "string",
-        "label": "username"
-      },
-      "password": {
-        "type": "string",
-        "label": "password"
-      },
-      "submit": {
-        "type": "string",
-        "parameters": {
-          "username": {
-            "type": "string"
-          },
-          "password": {
-            "type": "string"
-          }
-        }
-      }
-    }
   }
 }
