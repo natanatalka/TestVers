@@ -21,12 +21,6 @@
       "sourceAppId": "default"
     },
     {
-      "id": "Blank2",
-      "name": "Blank2",
-      "sourceScreenId": "Login",
-      "sourceAppId": "default"
-    },
-    {
       "id": "Blank3",
       "name": "Blank3",
       "sourceScreenId": "Login",
